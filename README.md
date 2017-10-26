@@ -24,9 +24,9 @@ Cette option permettra de créer une nouvelle Vagrant, il vous demandera le nom 
 
 <strong>3 - Action sur le Vagrant :</strong>
 
-A l'execution de ce menu, il vous mettra automatiquement la liste des Vagrant créer il vous mettra ensuite 4 sous menu     
-     - Lister les Vagrant : Liste toutes les Vagrant disponible
-     - Lancer une Vagrant : Lance la vagrant que vous avez désigné par un 'id' présent dans la liste précedemment appelée
-     - Supprimer une Vagrant : Supprime la vagrant que vous avez désigné par un 'id' présent dans la liste précedemment appelée
-     - Arrêter une Vagrant : Arrête la vagrant que vous avez désigné par un 'id' présent dans la liste précedemment appelée
+A l'execution de ce menu, il vous mettra automatiquement la liste des Vagrant créer il vous mettra ensuite 4 sous menu<br/>  
+     - Lister les Vagrant : Liste toutes les Vagrant disponible<br/> 
+     - Lancer une Vagrant : Lance la vagrant que vous avez désigné par un 'id' présent dans la liste précedemment appelée<br/> 
+     - Supprimer une Vagrant : Supprime la vagrant que vous avez désigné par un 'id' présent dans la liste précedemment appelée<br/> 
+     - Arrêter une Vagrant : Arrête la vagrant que vous avez désigné par un 'id' présent dans la liste précedemment appelée<br/> 
 
